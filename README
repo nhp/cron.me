@@ -1,0 +1,3 @@
+cron.me is to become a service for users that need calls to they websites in a cron like manner.
+Often no curl or wget is available and with some osters a normal crontab is also missing.
+This is to overcome the problems resulting from such things.
